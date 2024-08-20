@@ -28,7 +28,21 @@
         2. Escalabilidad:
         3. Fiabilidad: Se refiere a la disponibilidad de la red (Redundancias, mecanismos de recuperación ante desastres) pora mantener la productividad de la organización.
     5. Peer to peer y Cliente-Servidor:
-        1. Peer to peer (P2P): 
+        1. Peer to peer (P2P): Cada dispositivo actua como cliente y servidor al mismo tiempo. Los equipos se conectan entre si, sin necesidad de un servidor.
+            1. Características: Igualdad, descentralización (No existe un servidor), Escalabilidad (La red puede crecer), Resiliencia (No depende de un solo punto de falla).
+        2. Cliente-Servidor: Cliente solicita recursos y los servidores los proporcionan.
+            1. Características:
+                1. Centralización:
+                2. Especialización en roles: Los servidores están optimizados para proporcionar servicios específicos, como el almacenamiento de datos, gestión de bases de datos, etc.
+                3. Seguridad: Medidas de seguridad centralizadas.
+                4. Escalabilidad limitada: La adición de nuevos clientes afecta directamente la capacidad del servidor.
+    6. Medios de transmisión de datos:
+        1. Tipos de medios de transmisión: 
+
+
+
+
+
 
 
 
