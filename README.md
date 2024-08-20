@@ -15,7 +15,21 @@
             1. Funciones: Conversión de señales: Transforman los datos digitales de nuestras computadoras en señales analógicas para ser transmitidas a través de líneas de telecomunicaciones y viceversa, permitiendo la comunicación bidireccional.
             2. Variedad de tecnologías: Existen diferentes tipos de modems como; DSL, cable, fibra óptica y móviles. Cada uno adaptado a distintos tipos de conexiones y velocidades de transmisión.
     3. Clasificación de redes
-        1. Tipos de redes: 
+        1. Tipos de redes: Las redes se clasifican según diversos criterios; tamaño, tipología, método de acceso y uso.
+            1. Por tamaño: LAN, MAN, WAN.
+            2. Por topologia: Estrella, bus y anillo (Cada dispositivo está conectado a otros dos).
+            3. Por método de acceso: 
+                1. Ethernet: Utiliza el protocolo de acceso múltiple con detección de portadora y detección de colisiones.
+                2. Token ring: Utiliza un token  para controlar el acceso a la red, evitando colisiones.
+                3. WI-FI: Utiliza el estandar IEEE 802.11 para redes inalámbricas.
+            4. Por uso: Redes de oficina, redes de hogar, redes de datos (Transmiten datos entre dispositivos como el internet).
+    4. Consideraciones importantes: 
+        1. Seguridad:
+        2. Escalabilidad:
+        3. Fiabilidad: Se refiere a la disponibilidad de la red (Redundancias, mecanismos de recuperación ante desastres) pora mantener la productividad de la organización.
+    5. Peer to peer y Cliente-Servidor:
+        1. Peer to peer (P2P): 
+
 
 
 
