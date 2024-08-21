@@ -37,7 +37,24 @@
                 3. Seguridad: Medidas de seguridad centralizadas.
                 4. Escalabilidad limitada: La adición de nuevos clientes afecta directamente la capacidad del servidor.
     6. Medios de transmisión de datos:
-        1. Tipos de medios de transmisión: 
+        1. Tipos de medios de transmisión:  
+            1. Cableado: (Par trensado, coaxial y fibra óptica)
+            2. Inalámbrico: Transmite datos a través de ondas electromagnéticas sin necesidad de cables físicos, ofrece movilidad y flexibilidad. (WIFI, bluetooth, infrarojos, tecnologías 4G y 5G)
+        2. Factores a considerar:
+            1. Velocidad:
+            2. Seguridad:
+            3. Costo:
+            4. Entorno: Factores como la distancia, la interferencia, las obstrucciones pueden afectar la elección del medio de transmisión.
+        3. Ancho de banda, frecuencia de transmisión y alcances
+            1. Ancho de banda: Se refiere a la cantidad de datos que pueden transmitirse en un periodo de tiempo dado a través de un medio de comunicación.
+            2. Frecuencia de transmisión: Es la cantidad de veces que una señal completa un ciclo en un segundo (Medida en Hercios Hz).
+            3. Como se relacionan: El ancho de banda y la frecuencia de transmisión entán relacionados de manera inversa. A mayor frecuencia, mayor ancho de banda disponible.
+
+
+
+
+
+
 
 
 
